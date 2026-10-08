@@ -1,16 +1,4 @@
-<h1 align="center">Hi, I'm Vishal Ingale 👋</h1>
-<h3 align="center">AI Engineer · Python Backend Developer · AI Automation</h3>
-
-<p align="center">
-  Building production-oriented AI backends, RAG systems and agentic workflows.<br/>
-  Founder of <b>VSP Digital Solutions</b> · Pune, India
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vingale017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Python%20Backend%20roles-2ea44f?style=flat"/>
-</p>
+<h1 align="center">Vishal Ingale</h1> <h3 align="center">I build software that solves real business problems, from APIs to AI-powered automation.</h3> <p align="center"> Founder of <b>VSP Digital Solutions</b> · Pune, India </p> <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:vingale017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> </p>
 
 ---
 
