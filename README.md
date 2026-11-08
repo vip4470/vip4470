@@ -1,52 +1,60 @@
-<h1 align="center">Vishal Ingale</h1> <h3 align="center">I build software that solves real business problems, from APIs to AI-powered automation.</h3> <p align="center"> Founder of <b>VSP Digital Solutions</b> · Pune, India </p> <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:vingale017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> </p>
+<h1 align="center">Hi, I'm Vishal Ingale 👋</h1>
+
+<p align="center">
+  <b>AI Engineer · Python Backend Developer · GenAI</b><br>
+  I build software that solves real business problems, from APIs to AI-powered automation.
+</p>
+
+<p align="center">
+  <a href="mailto:vingale017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-## 🧑‍💻 About me
+## 👨‍💻 About
 
 - 🎓 B.E. in Artificial Intelligence & Machine Learning, Savitribai Phule Pune University (2025)
-- 🏢 Founder & AI Backend Developer at **VSP Digital Solutions**: AI apps, REST APIs and workflow automation for education, healthcare and travel clients
-- 🧠 Focus: LLM applications, RAG, AI agents with tool calling, and clean, deployable FastAPI backends
-- 🔎 Currently looking for **AI Engineer / Python Backend / GenAI** roles
+- 🏢 Founder of **VSP Digital Solutions**, building AI apps and automation for education, healthcare and travel
+- 🧠 Focused on LLM applications, RAG, AI agents and clean, deployable backends
+- 📍 Pune, India
+- 🔎 Open to **AI Engineer / Python Backend / GenAI** roles
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
-**Languages & backend**
+**Languages & Backend**
 
-![Python](https://skillicons.dev/icons?i=py,fastapi,mongodb,postgres,redis,js)
+![Python](https://skillicons.dev/icons?i=py,fastapi,js)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)
 
 **AI / ML**
 
-![AI](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy)
+![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy)
 
 `LangChain` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `Tool Calling` · `AI Agents`
 
-**DevOps & tools**
+**DevOps & Tools**
 
 ![DevOps](https://skillicons.dev/icons?i=docker,githubactions,git,github,postman,vscode)
 
 `n8n` · `Swagger / OpenAPI` · `Docker Compose`
 
-## 🚀 Featured projects
+## 🎯 What I Do
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Enterprise Knowledge Assistant**](https://github.com/vip4470/REPO-NAME) | RAG assistant that answers questions from private company documents with grounded responses | LangChain, LLMs, Embeddings, Vector DB |
-| [**AgentFlow**](https://github.com/vip4470/REPO-NAME) | Multi-step AI agents that choose tools, call external APIs and return structured outputs | LLMs, Tool Calling, LangChain |
-| [**AI Service Hub**](https://github.com/vip4470/REPO-NAME) | Backend with auth, Redis caching, background jobs, Dockerized with GitHub Actions CI/CD | FastAPI, PostgreSQL, Redis, Docker |
-| **MyYatra** (private, client product) | AI SaaS for travel agencies: automates enquiries and itinerary generation | FastAPI, MongoDB, LLMs |
+| | |
+|---|---|
+| 🤖 **GenAI & Agents** | LLM apps, RAG pipelines, tool-calling agents |
+| ⚙️ **Backend & APIs** | REST APIs, auth, caching, background jobs |
+| 🔄 **Automation** | Workflow automation for real business use |
+| 🚢 **Deployment** | Containerized services with CI/CD |
 
-## 💼 Experience
+## 📫 Let's Connect
 
-- **Founder & AI Backend Developer**, VSP Digital Solutions (Jun 2025 – Present)
-  Python/FastAPI/MongoDB services, LLM and n8n automation, AI assistants and knowledge-base support for real clients.
-- **Machine Learning Intern**, Maxgen Technologies (Oct 2024 – Mar 2025)
-  Built and evaluated ML models with Scikit-learn: cleaning, feature engineering, tuning.
+Email: [vingale017@gmail.com](mailto:vingale017@gmail.com) · LinkedIn: [add your link](https://www.linkedin.com/in/YOUR-LINKEDIN)
 
-## 📫 Let's connect
+---
 
-Email: vingale017@gmail.com · LinkedIn: add your link above
-
-<!-- Optional, add only once you want them:
-<img src="https://github-readme-stats.vercel.app/api?username=vip4470&show_icons=true&theme=default" />
--->
+<p align="center"><i>Always learning. Always building.</i></p>
